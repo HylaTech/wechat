@@ -1,0 +1,17 @@
+{
+  "name": "hylaxWechat",
+  "version": "0.0.1",
+  "description": "hylax wechat sdk.",
+  "keywords": [
+    "hylax",
+    "wechat",
+    "open api"
+  ],
+  "main": "wechatClient.js",
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
