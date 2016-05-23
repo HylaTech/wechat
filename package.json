@@ -7,7 +7,7 @@
     "wechat",
     "open api"
   ],
-  "main": "wechatClient.js",
+  "main": "index.js",
   "dependencies": {
     "request": "^2.65.0"
   },
